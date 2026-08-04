@@ -66,9 +66,7 @@
         }
     </style>
 </head>
-
 <body>
-
 <div class="container">
 
     <h2>Registration Form</h2>
@@ -108,12 +106,9 @@
 
         <label>Address</label>
         <textarea rows="3" placeholder="Enter your address"></textarea>
-
         <button type="submit">Register</button>
 
     </form>
-
 </div>
-
 </body>
 </html>
